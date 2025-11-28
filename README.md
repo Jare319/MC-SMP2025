@@ -1,6 +1,6 @@
 # MC-SMP2025
 Mod and Datapack list for a vanilla+ SMP
----
+
 ## Datapacks
 ([Vanilla Tweaks](https://vanillatweaks.net/))
 * Armor Statues
