@@ -24,6 +24,7 @@ Mod and Datapack list for a vanilla+ SMP
 * More Bark
 * Unpackable Ice
 * Craftable Bundles
+
 (Non Vanilla Tweaks)
 * [Terralith](https://modrinth.com/datapack/terralith) or [Geophilic](https://modrinth.com/datapack/geophilic)
 
