@@ -26,13 +26,7 @@ Mod and Datapack list for a vanilla+ SMP
 * Craftable Bundles
 
 (Non Vanilla Tweaks)
-* [Terralith](https://modrinth.com/datapack/terralith) or [Geophilic](https://modrinth.com/datapack/geophilic)
-
-## Plugins
-* [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
-* [Geyser?](https://modrinth.com/plugin/geyser)
-* [Dynmap](https://modrinth.com/plugin/dynmap)
-* [CoreProtect](https://modrinth.com/plugin/coreprotect)
+* [Geophilic](https://modrinth.com/datapack/geophilic)
 
 ## Server Mods
 * [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)
@@ -40,3 +34,6 @@ Mod and Datapack list for a vanilla+ SMP
 * [Spark](https://modrinth.com/mod/spark)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [Distant Horizons?](https://modrinth.com/mod/distanthorizons)
+* [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+* [Dynmap](https://modrinth.com/plugin/dynmap)
+* [Geyser?](https://modrinth.com/plugin/geyser)
